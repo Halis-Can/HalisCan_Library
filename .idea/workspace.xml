@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="" />
+    <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/HandleFrames2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Selenium/SwitchWindow3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/UserStory3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/bitrix24testng/login/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/btrix24/UserStory9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FormyCheckBoxTestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FormyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/FourCommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/SubmitForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/resource/configuration/GetPropertyMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/homepage/ApplyingIterationMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/homepage/NavigationLinks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/superhero/loginpage/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/dogan/youtube/TestingYoutube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/gmail/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/gmail/SendEmails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/homework/TestCase8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/Solution.java.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/mylib/actionclass/Amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/mehmetgul/mylib/actionclass/Amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day11/WaitsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/ActionsClassHoverPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/DragAndDropPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/FramesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/JSExecutorPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day13/WaitsPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day14/ConfigReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day14/WebTablesPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/BrowserFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/DifferenceBetweenQuitClose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day3/NavigationPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day4/EnterTextPractice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day4/FindElementsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/AnnotationsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/MultipleButtonsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day5/TestNGPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vasyl/day9/TimeToReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/CalendarEventsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySeleniumLibrary/src/test/java/vytrack/VyTrackTestCases.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,20 +84,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1bH6VVOgTElnlweiLff2XCtao0v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -61,24 +124,19 @@
       <recent name="C:\Users\serka\eclipse-workspace\Batch15\src\main\java\JavaExample" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Actions_Keyboard_KeyControl">
-    <configuration name="Actions_Keyboard_KeyControl" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HalisCan_Library" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Selenium" />
-      <option name="MAIN_CLASS_NAME" value="Selenium.Actions_Keyboard_KeyControl" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HandleFrames2.test3">
     <configuration name="HandleFrames2.test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Batch15" />
       <extension name="coverage">
@@ -91,6 +149,23 @@
       <option name="MAIN_CLASS_NAME" value="Selenium.HandleFrames2" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedFrames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.NestedFrames" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -152,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Actions_Keyboard_KeyControl" />
         <item itemvalue="TestNG.HandleFrames2.test3" />
         <item itemvalue="TestNG.SwitchWindow3" />
         <item itemvalue="TestNG.SwitchWindow3.test" />
         <item itemvalue="TestNG.NestedFrames.frame2" />
+        <item itemvalue="TestNG.NestedFrames" />
       </list>
     </recent_temporary>
   </component>
@@ -171,63 +246,6 @@
       <option name="presentableId" value="Default" />
       <updated>1588276695757</updated>
     </task>
-    <task id="LOCAL-00001" summary="First Commit">
-      <created>1592335051991</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1592335051991</updated>
-    </task>
-    <task id="LOCAL-00002" summary="First Commit2">
-      <created>1592335128542</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1592335128542</updated>
-    </task>
-    <task id="LOCAL-00003" summary="First Commit">
-      <created>1592335485193</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1592335485193</updated>
-    </task>
-    <task id="LOCAL-00004" summary="First Commit">
-      <created>1592336011472</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1592336011472</updated>
-    </task>
-    <task id="LOCAL-00005" summary="First Commit">
-      <created>1592336056592</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1592336056592</updated>
-    </task>
-    <task id="LOCAL-00006" summary="First Commit">
-      <created>1592336117811</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1592336117811</updated>
-    </task>
-    <task id="LOCAL-00007" summary="First Commit">
-      <created>1592336149196</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1592336149196</updated>
-    </task>
-    <task id="LOCAL-00008" summary="First Commit44">
-      <created>1592336274028</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1592336274028</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,73 +253,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/MySeleniumLibrary" />
       <path value="$PROJECT_DIR$/.." />
-      <path value="$PROJECT_DIR$/../MySeleniumLibrary" />
     </ignored-roots>
-    <MESSAGE value="First Commit2" />
-    <MESSAGE value="First Commit" />
-    <MESSAGE value="First Commit44" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit44" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="4685" y="382" key="#Notifications" timestamp="1592335151658">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4685" y="382" key="#Notifications/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335151658" />
-    <state x="4427" y="88" key="CommitChangelistDialog2" timestamp="1592336055213">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4427" y="88" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336055213" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592335450041">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335450041" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592335450041">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335450041" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592335450041">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335450041" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592335450041">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335450041" />
-    <state x="4301" y="164" key="SettingsEditor" timestamp="1592334548202">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4301" y="164" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592334548202" />
-    <state x="4392" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592336014123">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4392" y="252" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336014123" />
-    <state x="4609" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592336020488">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4609" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336020488" />
-    <state x="4588" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592335082738">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4588" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335082738" />
-    <state x="4592" y="418" key="git4idea.ui.GitStashDialog" timestamp="1592335223518">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4592" y="418" key="git4idea.ui.GitStashDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335223518" />
-    <state x="4263" y="270" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1592336045197">
-      <screen x="3840" y="0" width="1920" height="1040" />
-    </state>
-    <state x="4263" y="270" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336045197" />
   </component>
 </project>
