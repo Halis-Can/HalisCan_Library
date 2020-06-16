@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="" />
+    <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Keyboard_KeyControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Selenium/Actions_Keyboard_KeyControl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -194,7 +201,35 @@
       <option name="project" value="LOCAL" />
       <updated>1592336011472</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="First Commit">
+      <created>1592336056592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592336056592</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Commit">
+      <created>1592336117811</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592336117811</updated>
+    </task>
+    <task id="LOCAL-00007" summary="First Commit">
+      <created>1592336149196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592336149196</updated>
+    </task>
+    <task id="LOCAL-00008" summary="First Commit44">
+      <created>1592336274028</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592336274028</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +253,8 @@
     </ignored-roots>
     <MESSAGE value="First Commit2" />
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="First Commit44" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit44" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4685" y="382" key="#Notifications" timestamp="1592335151658">
