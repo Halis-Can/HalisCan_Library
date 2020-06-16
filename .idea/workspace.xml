@@ -225,10 +225,10 @@
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4685" y="382" key="#Notifications/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335151658" />
-    <state x="4427" y="88" key="CommitChangelistDialog2" timestamp="1592335483572">
+    <state x="4427" y="88" key="CommitChangelistDialog2" timestamp="1592336055213">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4427" y="88" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335483572" />
+    <state x="4427" y="88" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336055213" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592335450041">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
@@ -249,10 +249,14 @@
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4301" y="164" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592334548202" />
-    <state x="4392" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592335496162">
+    <state x="4392" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592336014123">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state x="4392" y="252" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335496162" />
+    <state x="4392" y="252" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336014123" />
+    <state x="4609" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592336020488">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4609" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336020488" />
     <state x="4588" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592335082738">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
@@ -261,5 +265,9 @@
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4592" y="418" key="git4idea.ui.GitStashDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592335223518" />
+    <state x="4263" y="270" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1592336045197">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4263" y="270" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592336045197" />
   </component>
 </project>
