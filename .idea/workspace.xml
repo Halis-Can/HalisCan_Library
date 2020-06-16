@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdb51d56-7b7b-4ec4-bfa2-8adfee600f06" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,6 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588276695757</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1592333989829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592333989829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,11 +197,25 @@
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$/../MySeleniumLibrary" />
     </ignored-roots>
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="4427" y="88" key="CommitChangelistDialog2" timestamp="1592333988441">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4427" y="88" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592333988441" />
     <state x="4301" y="164" key="SettingsEditor" timestamp="1592333653617">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4301" y="164" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592333653617" />
+    <state x="4609" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592333999276">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4609" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592333999276" />
+    <state x="4588" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592333814208">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4588" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1592333814208" />
   </component>
 </project>
